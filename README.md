@@ -1,4 +1,10 @@
 
+## DESC
+Do not merge to Final Project until server set up on Kurt REPO.
+ALL TYPED IN JS CONVERT TO TS
+TWITTER FEED FOLLOWING KURT AND CALVIN TWITTER ACC HANDLE.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
